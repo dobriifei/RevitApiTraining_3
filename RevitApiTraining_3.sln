@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RevitApiTraining_3", "RevitApiTraining_3\RevitApiTraining_3.csproj", "{82297BEA-E0B2-4897-B4C3-9FBA12EBC61A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82297BEA-E0B2-4897-B4C3-9FBA12EBC61A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82297BEA-E0B2-4897-B4C3-9FBA12EBC61A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82297BEA-E0B2-4897-B4C3-9FBA12EBC61A}.Debug|x64.ActiveCfg = Debug|x64
+		{82297BEA-E0B2-4897-B4C3-9FBA12EBC61A}.Debug|x64.Build.0 = Debug|x64
+		{82297BEA-E0B2-4897-B4C3-9FBA12EBC61A}.Debug|x86.ActiveCfg = Debug|x86
+		{82297BEA-E0B2-4897-B4C3-9FBA12EBC61A}.Debug|x86.Build.0 = Debug|x86
+		{82297BEA-E0B2-4897-B4C3-9FBA12EBC61A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82297BEA-E0B2-4897-B4C3-9FBA12EBC61A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82297BEA-E0B2-4897-B4C3-9FBA12EBC61A}.Release|x64.ActiveCfg = Release|x64
+		{82297BEA-E0B2-4897-B4C3-9FBA12EBC61A}.Release|x64.Build.0 = Release|x64
+		{82297BEA-E0B2-4897-B4C3-9FBA12EBC61A}.Release|x86.ActiveCfg = Release|x86
+		{82297BEA-E0B2-4897-B4C3-9FBA12EBC61A}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {166A21A4-C28A-42DB-AC56-9E0346DCFB7F}
+	EndGlobalSection
+EndGlobal
